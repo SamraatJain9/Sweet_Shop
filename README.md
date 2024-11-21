@@ -48,7 +48,7 @@ Welcome to the **Sweet Shop Showcase Website**! This project is a Flutter-based 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sweet-shop-showcase.git
+   git clone git@github.com:SamraatJain9/Sweet_Shop.git
    ```
 2. Navigate to the project directory:
    ```bash
