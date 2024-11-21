@@ -62,3 +62,9 @@ Welcome to the **Sweet Shop Showcase Website**! This project is a Flutter-based 
    ```bash
    flutter run -d chrome
    ```
+## Contributors
+The contributors of this project are: [Samraat Jain](https://github.com/SamraatJain9)
+
+## License
+License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
